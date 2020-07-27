@@ -1,6 +1,9 @@
 {
 "ad_banner_id": "ca-app-pub-3940256099942544/6300978111",
   "ad_inter_id": "ca-app-pub-3940256099942544/1033173712",
+  "ad_native_id":"ca-app-pub-3940256099942544/2247696110",
 "is_show_inter":true,
-"is_show_banner":true
+"is_show_banner":true,
+"is_show_native":true,
+"isAdmob":true 
 }
