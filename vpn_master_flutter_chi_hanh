@@ -5,7 +5,7 @@
   "fan_banner_id": "IMG_16_9_APP_INSTALL#2312433698835503_2964944860251047",
   "fan_inter_id": "IMG_16_9_APP_INSTALL#2312433698835503_2650502525028617",
   "fan_rewar_id": "IMG_16_9_APP_INSTALL#2312433698835503_2650502525028617",
-  "is_show_inter":true,
+  "is_show_inter":false,
   "is_show_banner":false,
   "isShowAdmob":true
 }
