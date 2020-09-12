@@ -1,6 +1,12 @@
 {
 "ad_banner_id": "ca-app-pub-3940256099942544/6300978111",
-  "ad_inter_id": "ca-app-pub-3940256099942544/1033173712",
+"ad_inter_id": "ca-app-pub-3940256099942544/1033173712",
+"banner_id_fan": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+"inter_id_fan": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+"ads_click_main_percents":50,
+"is_show_inter_back":true,
+"is_show_splash_inter":true,
+"is_show_admob":true,
 "is_show_inter":true,
 "is_show_banner":true
 }
