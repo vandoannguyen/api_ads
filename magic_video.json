@@ -8,5 +8,6 @@
 "is_show_splash_inter":true,
 "is_show_admob":true,
 "is_show_inter":true,
+"market_name":"",
 "is_show_banner":true
 }
