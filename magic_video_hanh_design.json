@@ -2,8 +2,19 @@
 {
 "ad_banner_id": "ca-app-pub-3940256099942544/6300978111",
 "ad_inter_id": "ca-app-pub-3940256099942544/1033173712",
-  "id_market": "idHoang",
-  "is_random": 5,
+"ad_native_id": "ca-app-pub-3940256099942544/2247696110",
+"ad_reward_id": "ca-app-pub-3940256099942544/5224354917",
+"ad_banner_fan_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+"ad_inter_fan_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+"ad_native_fan_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+"ad_reward_fan_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+"id_market": "idHoang",
 "is_show_inter": true,
 "is_show_banner": true
+"is_show_native": true,
+"is_load_failed": false,
+"is_show_splash_inter": true,
+"is_show_inter_back": true,
+"is_random": 6,
+"isAdmob": true
 }
